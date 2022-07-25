@@ -4,7 +4,8 @@
 # GitHub Live Deployment: https://leenajabr.github.io/Weather-APP/
 
 # Demo
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/107494937/180669385-491204c4-e35d-43ce-91d0-39c2fb1a9ff8.gif)
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/107494937/180673395-5df68846-47e1-4e2a-a68b-04cd11fd543d.gif)
+
 
 # Application
 The Weather Application allows the user to view cities around the world's current weather. The user can also view the next 5-day weather status. 
