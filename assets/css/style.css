@@ -14,7 +14,8 @@
 }
 
 .custom-header {
-    background-color: blue;
+    background-image: url(../images/kindpng_55245\(1\).png);
+    background-color: rgb(106, 154, 218);
     padding: 15px 0 5px 0;
     font-size: 35px; 
 }
@@ -42,7 +43,8 @@
 }
 
 .day {
-    background-color: darkblue;
+    background-image: url(../images/kindpng_55245\(1\).png);
+    background-color: rgb(106, 154, 218);
 }
 
 .custom-small-text{

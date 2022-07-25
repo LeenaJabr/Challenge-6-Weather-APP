@@ -69,7 +69,7 @@ function getLatLon() {
             lat = data[0].lat
             lon = data[0].lon
 
-            fetch('https://api.openweathermap.org/data/2.5/onecall?lat=' + lat + '&lon=' + lon + '&appid=8e20102d29e5d9929745e4fb83d08bf0&units=imperial')
+            fetch('https://api.openweathermap.org/data/2.5/onecall?lat=' + lat + '&lon=' + lon + '&appid=8370cac13e7d2ef820f53ec55b93be01&units=imperial')
                 .then(function (response) {
                     return response.json();
                 }).then(function (data) {
